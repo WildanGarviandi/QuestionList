@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuestionList</string>
+    <string name="submit">Submit</string>
+    <string name="header_biodata">Biodata</string>
+    <string name="error_text">Error</string>
+    <string name="error_message">Can\'t fetch data</string>
+    <string name="error_message_field_required">Field is required</string>
+</resources>
